@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<calibration calibrated="true" source="20240224_145052.qca" created="Calibration carried out: 2024-02-24 14:50:52" qtm-version="2020.2 (build 5770)" type="regular" wandLength="300.200000" maximumFrames="1500" lengthOfCalibration="45" shortArmEnd="200.000000" longArmEnd="300.000000" longArmMiddle="90.000000">
+    <results std-dev="0.925108" min-max-diff="15.486612"/>
+    <cameras>
+        <camera active="1" calibrated="true" message="" point-count="1906" avg-residual="0.854899" serial="12351" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="-658.846741" y="-2577.219482" z="2732.100098" r11="-0.979773" r12="0.194810" r13="-0.045760" r21="-0.069291" r22="-0.544791" r23="-0.835704" r31="-0.187733" r32="-0.815630" r33="0.547270"/>
+            <intrinsic focallength="16.748114" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="133964.500000" focalLengthV="133985.562500" centerPointU="53218.144531" centerPointV="56800.664063" skew="0.000000" radialDistortion1="-0.361258" radialDistortion2="0.169218" radialDistortion3="0.000000" tangentalDistortion1="0.000968" tangentalDistortion2="0.000180"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1834" avg-residual="0.873190" serial="12310" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="-2866.580566" y="-89.199806" z="2802.315430" r11="0.036225" r12="0.998860" r13="0.031083" r21="-0.539016" r22="0.045721" r23="-0.841054" r31="-0.841516" r32="0.013713" r33="0.540058"/>
+            <intrinsic focallength="16.903275" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="135206.609375" focalLengthV="135225.843750" centerPointU="57359.507813" centerPointV="56365.828125" skew="0.000000" radialDistortion1="-0.360975" radialDistortion2="0.168160" radialDistortion3="0.000000" tangentalDistortion1="0.000352" tangentalDistortion2="0.000074"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1916" avg-residual="1.445817" serial="12272" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="-2670.922852" y="2518.747559" z="2831.689209" r11="0.579831" r12="0.812727" r13="-0.057196" r21="-0.480710" r22="0.284587" r23="-0.829414" r31="-0.657810" r32="0.508415" r33="0.555698"/>
+            <intrinsic focallength="16.820002" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="134601.468750" focalLengthV="134498.718750" centerPointU="56260.441406" centerPointV="53355.015625" skew="0.000000" radialDistortion1="-0.349916" radialDistortion2="0.169106" radialDistortion3="0.000000" tangentalDistortion1="0.000114" tangentalDistortion2="0.001175"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1900" avg-residual="1.609111" serial="12275" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="4353.924316" y="-392.821533" z="2713.340820" r11="-0.019145" r12="-0.999496" r13="-0.025325" r21="0.482139" r22="0.012961" r23="-0.875999" r31="0.875886" r32="-0.028981" r33="0.481648"/>
+            <intrinsic focallength="16.827415" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="134671.125000" focalLengthV="134547.656250" centerPointU="56506.980469" centerPointV="55844.796875" skew="0.000000" radialDistortion1="-0.347520" radialDistortion2="0.151799" radialDistortion3="0.000000" tangentalDistortion1="0.001937" tangentalDistortion2="0.000519"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="2000" avg-residual="1.063655" serial="17902" model="Oqus 700+" viewrotation="180">
+            <fov_marker left="0" top="0" right="4095" bottom="3071"/>
+            <fov_marker_max left="0" top="0" right="4095" bottom="3071"/>
+            <fov_video left="0" top="0" right="4095" bottom="3071"/>
+            <fov_video_max left="0" top="0" right="4095" bottom="3071"/>
+            <transform x="406.908630" y="2475.600098" z="2774.245361" r11="0.999433" r12="0.019700" r13="-0.027298" r21="-0.033609" r22="0.630518" r23="-0.775447" r31="0.001936" r32="0.775925" r33="0.630822"/>
+            <intrinsic focallength="16.675898" sensorMinU="0.000000" sensorMaxU="262143.000000" sensorMinV="0.000000" sensorMaxV="196607.000000" focalLengthU="194046.593750" focalLengthV="194047.031250" centerPointU="131554.375000" centerPointV="98214.398438" skew="0.000000" radialDistortion1="-0.082344" radialDistortion2="0.056474" radialDistortion3="0.000000" tangentalDistortion1="-0.000258" tangentalDistortion2="0.000173"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1608" avg-residual="1.676346" serial="12271" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="3970.503174" y="2413.814697" z="2774.340088" r11="0.757701" r12="-0.634151" r13="-0.154082" r21="0.223516" r22="0.474000" r23="-0.851683" r31="0.613131" r32="0.610881" r33="0.500894"/>
+            <intrinsic focallength="16.741640" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="133854.000000" focalLengthV="133992.515625" centerPointU="52142.152344" centerPointV="56216.066406" skew="0.000000" radialDistortion1="-0.376902" radialDistortion2="0.233119" radialDistortion3="0.000000" tangentalDistortion1="0.000140" tangentalDistortion2="-0.000413"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1870" avg-residual="1.720842" serial="12302" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="-2710.318359" y="-2533.068604" z="2799.003906" r11="-0.769999" r12="0.627691" r13="-0.114478" r21="-0.248262" r22="-0.460024" r23="-0.852493" r31="-0.587765" r32="-0.627998" r33="0.510050"/>
+            <intrinsic focallength="16.767799" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="134174.546875" focalLengthV="134090.468750" centerPointU="54429.835938" centerPointV="57207.628906" skew="0.000000" radialDistortion1="-0.352919" radialDistortion2="0.165629" radialDistortion3="0.000000" tangentalDistortion1="0.000257" tangentalDistortion2="-0.000459"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="1820" avg-residual="1.562148" serial="18174" model="Oqus 700+" viewrotation="180">
+            <fov_marker left="0" top="0" right="4095" bottom="3071"/>
+            <fov_marker_max left="0" top="0" right="4095" bottom="3071"/>
+            <fov_video left="0" top="0" right="4095" bottom="3071"/>
+            <fov_video_max left="0" top="0" right="4095" bottom="3071"/>
+            <transform x="379.832031" y="-2580.914795" z="2705.755371" r11="-0.990323" r12="-0.138765" r13="0.001960" r21="0.079285" r22="-0.577312" r23="-0.812665" r31="0.113901" r32="-0.804646" r33="0.582727"/>
+            <intrinsic focallength="16.712540" sensorMinU="0.000000" sensorMaxU="262143.000000" sensorMinV="0.000000" sensorMaxV="196607.000000" focalLengthU="194456.000000" focalLengthV="194490.359375" centerPointU="132042.406250" centerPointV="99843.375000" skew="0.000000" radialDistortion1="-0.081348" radialDistortion2="0.053481" radialDistortion3="0.000000" tangentalDistortion1="-0.000231" tangentalDistortion2="-0.000012"/>
+        </camera>
+        <camera active="1" calibrated="true" message="" point-count="2037" avg-residual="1.410012" serial="12352" model="Oqus 400" viewrotation="180">
+            <fov_marker left="0" top="0" right="1695" bottom="1709"/>
+            <fov_marker_max left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video left="0" top="0" right="1695" bottom="1709"/>
+            <fov_video_max left="0" top="0" right="1695" bottom="1709"/>
+            <transform x="3906.059814" y="-2617.027832" z="2700.064453" r11="-0.594384" r12="-0.804033" r13="-0.015450" r21="0.346473" r22="-0.238699" r23="-0.907182" r31="0.725716" r32="-0.544568" r33="0.420455"/>
+            <intrinsic focallength="16.659422" sensorMinU="0.000000" sensorMaxU="108543.000000" sensorMinV="0.000000" sensorMaxV="109439.000000" focalLengthU="133300.500000" focalLengthV="133230.593750" centerPointU="56618.093750" centerPointV="55765.167969" skew="0.000000" radialDistortion1="-0.358192" radialDistortion2="0.176515" radialDistortion3="0.000000" tangentalDistortion1="0.001242" tangentalDistortion2="-0.000118"/>
+        </camera>
+    </cameras>
+</calibration>

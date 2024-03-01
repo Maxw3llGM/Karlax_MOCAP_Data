@@ -1,0 +1,110 @@
+1	11:43:57	Realtime started	
+1	11:58:52	Disconnected	
+1	11:58:55	Realtime started	
+1	12:32:40	Disconnected	
+1	13:07:58	Realtime started	
+1	13:10:42	No skeleton definition(s) could be created. Verify that the markers are labeled and prefixed correctly.	No skeleton definition(s) could be created. Verify that the markers are labeled and prefixed correctly.
+1	13:20:02	Disconnected	
+1	13:20:06	Realtime started	
+2	13:26:22	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Measurement14.qtm	
+1	13:29:17	Disconnected	
+2	13:29:39	File closed	
+2	13:29:40	Realtime started	
+2	13:30:56	Calibration started	
+2	13:31:02	Calibration finished after 6.0882 seconds	
+2	13:31:04	File created	
+2	13:31:05	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Calibrations\20240226_133023.qca	
+2	13:31:07	File closed	
+2	13:31:12	Realtime started	
+2	13:31:56	Disconnected	
+2	13:47:19	Realtime started	
+2	13:48:17	Disconnected	
+2	13:48:21	Realtime started	
+2	13:51:18	Not all gaps were filled	11 gaps out of 21 were filled. The other 10 gaps were longer than 10 frames (max gap length).  Adjust maximum gap length in trajectories settings in project options or in reprocessing trajectories settings.
+2	13:51:18	File created	
+2	13:52:43	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	13:52:43	File closed	
+2	13:52:45	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	13:53:07	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+2	13:54:28	File closed	
+2	13:54:30	Realtime started	
+2	13:56:21	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance. 
+2	13:56:21	File created	
+2	13:56:29	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	14:09:35	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	14:10:19	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	14:10:24	Skeleton 'maxSkeleton' definition added to both the file and to the Project Options	Skeleton 'maxSkeleton' definition added to both the file and to the Project Options
+2	14:13:00	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	14:13:01	File closed	
+2	14:13:02	Realtime started	
+2	14:14:42	File created	
+2	14:15:36	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose2.qtm	
+2	14:15:47	File closed	
+2	14:15:48	Realtime started	
+2	14:20:12	Rigid body: karlax_bottompart added.	The new body definition was added to the Project Options.
+2	14:23:00	File created	
+2	14:23:16	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+2	14:23:18	File closed	
+2	14:23:19	Realtime started	
+2	14:23:28	Disconnected	
+2	14:23:29	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+2	14:24:12	AIM model application results	   Rigid body identification results:  2 successful  0 failed
+2	14:24:12	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_bottompart": in 4 of the 2000 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+2	14:24:23	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+2	15:02:06	File closed	
+2	15:02:08	Realtime started	
+2	15:02:52	Rigid body: karlax_upperpart added.	The new body definition was added to the Project Options.
+2	15:03:46	1 model failed to apply	1 model failed to apply.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  4 successful  0 failed
+2	15:03:46	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_upperpart": in 46 of the 1977 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+2	15:03:47	File created	
+2	15:06:13	File closed	
+2	15:06:26	Realtime started	
+2	15:06:32	Disconnected	
+2	16:32:16	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+2	16:34:00	File closed	
+2	16:34:01	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose1.qtm	
+2	16:35:08	File closed	
+2	16:35:10	Realtime started	
+2	16:51:53	Disconnected	
+2	16:51:54	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+2	17:01:30	File closed	
+2	17:01:32	Realtime started	
+2	17:06:24	Disconnected	
+1	17:07:00	Realtime started	
+1	17:09:21	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  0 successful  2 failed
+1	17:09:29	File created	
+1	17:14:00	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\tpose3_yulin.qtm	
+1	17:14:45	File closed	
+1	17:14:46	Realtime started	
+1	17:48:13	Disconnected	
+1	17:48:14	File loaded from C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_test1.qtm	
+1	17:48:43	File closed	
+1	17:48:44	Realtime started	
+1	18:15:21	1 model failed to apply	1 model failed to apply.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  4 successful  0 failed
+1	18:15:21	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_bottompart": in 35 of the 4064 frames where at least three points were present Body "karlax_upperpart": in 12 of the 3590 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:15:22	File created	
+1	18:17:27	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performnace_2_yulin.qtm	
+1	18:19:21	File closed	
+1	18:19:23	Realtime started	
+1	18:23:28	AIM model application results	   Rigid body identification results:  4 successful  0 failed
+1	18:23:28	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_bottompart": in 1 of the 1350 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:23:32	File created	
+1	18:23:41	File closed	
+1	18:23:42	Realtime started	
+1	18:24:29	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  4 successful  0 failed
+1	18:24:29	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_upperpart": in 1 of the 2000 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:24:33	File created	
+1	18:25:00	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_rehearse_1.qtm	
+1	18:25:02	File closed	
+1	18:25:03	Realtime started	
+1	18:29:19	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  4 successful  0 failed
+1	18:29:19	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_bottompart": in 36 of the 3617 frames where at least three points were present Body "karlax_upperpart": in 22 of the 5265 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:29:27	File created	
+1	18:31:30	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_rehearse_2.qtm	
+1	18:31:45	File closed	
+1	18:31:46	Realtime started	
+1	18:33:44	AIM model application results, 1 model partially applied	1 model partially applied.  Note: Partial success, or failure to identify, usually indicates that the model needs more training.  Correct the identification by hand and then add the fully identified file to the AIM model. Use "Add to existing model(s)" to improve AIM performance.    Rigid body identification results:  4 successful  0 failed
+1	18:33:44	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "karlax_bottompart": in 39 of the 5104 frames where at least three points were present Body "karlax_upperpart": in 8 of the 5436 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	18:33:56	File created	
+1	18:37:14	File saved as C:\Users\CIRMMT A820\Documents\Karlax\Data\performance_3_yulin.qtm	
+1	18:49:51	File closed	
